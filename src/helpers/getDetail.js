@@ -1,5 +1,5 @@
 import { Client } from "../client/client";
-import { vrfEncrypt } from "../utils/encrypt";
+import { vrfDecrypt, vrfEncrypt } from "../utils/encrypt";
 import * as cheerio from 'cheerio';
 import { parseStatus } from "./parsehtml";
 
@@ -7,7 +7,6 @@ import { parseStatus } from "./parsehtml";
 export async function getDetail(url) {
   const statusList = [{ Releasing: 0, Completed: 1 }];
   const res = await Client.get(`${url}`);
-  console.log(res)
   const $ = cheerio.load(res);
   const anime = {};
 
@@ -35,10 +34,16 @@ export async function getDetail(url) {
   const id = $("div[data-id]").attr("data-id");
 
   const encrypt = vrfEncrypt(id); 
+
+
   const vrf = `vrf=${encodeURIComponent(encrypt)}`;
 
+
+  console.log(`${Client.source.baseUrl}/ajax/episode/list/${id}?${vrf}`)
+
+
   const resEp = await Client.get(`${Client.source.baseUrl}/ajax/episode/list/${id}?${vrf}`);
-  const html = JSON.parse(resEp).result;
+  const html = resEp.result;
   const episodesList = [];
 
   const epsHtmls = cheerio.load(html)("div.episodes ul > li");

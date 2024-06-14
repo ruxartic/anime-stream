@@ -35,7 +35,6 @@ class clientClass {
 
   async get(url) {
     const response = await this.client.get(url);
-    console.log(response.data)
     return response.data;
   }
 }
