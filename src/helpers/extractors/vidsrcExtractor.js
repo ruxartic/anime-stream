@@ -5,7 +5,6 @@ import { getApiUrl } from "./getApiUrl";
 
 export async function vidsrcExtractor(url, name, type) {
 
-    console.log("americaya!")
     const keys = await fetch("https://raw.githubusercontent.com/KillerDogeEmpire/vidplay-keys/keys/keys.json")
         .then(res => res.json());
     const videoList = [];

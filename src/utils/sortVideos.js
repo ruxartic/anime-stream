@@ -34,30 +34,4 @@ export function sortVideos(videos, sourceId) {
     return videos;
   }
   
-  // Sample implementation of getPreferenceValue
-  function getPreferenceValue(sourceId, key) {
-    // This is a placeholder implementation.
-    // Replace this with actual logic to fetch the preference value based on the sourceId and key.
-    const preferences = {
-      preferred_quality: "720p",
-      preferred_server: "vidplay",
-      preferred_language: "dub"
-    };
-  
-    return preferences[key];
-  }
-
-
-  
-  
-//   // Sample usage:
-//   const videos = [
-//     { quality: "1080p English vidplay" },
-//     { quality: "720p English vidplay" },
-//     { quality: "1080p Japanese mcloud" },
-//     { quality: "480p English mp4upload" }
-//   ];
-  
-//   const sortedVideos = sortVideos(videos, 1);
-//   console.log(sortedVideos);
-  
+ 

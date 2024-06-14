@@ -1,0 +1,296 @@
+MPages {
+  list: [
+    {
+      name: "ONE PIECE",
+      imageUrl: "https://static.aniwave.to/i/1/1b/1bb2150e9529b52995336d38e74e94b6.jpg",
+      link: "/watch/one-piece.ov8",
+    }, {
+      name: "WIND BREAKER",
+      imageUrl: "https://static.aniwave.to/i/0/07/286a7ab2683354757ba827f5b9979a2d.jpg",
+      link: "/watch/wind-breaker.ll1x3",
+    }, {
+      name: "Kimetsu no Yaiba: Hashira Geiko-hen",
+      imageUrl: "https://static.aniwave.to/i/1/11/f8afece6eff312ce165e22779b894708.jpg",
+      link: "/watch/kimetsu-no-yaiba-hashira-geiko-hen.m2358",
+    }, {
+      name: "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+      imageUrl: "https://static.aniwave.to/i/f/fe/c04e84116b8166176da405a1bee9fb33.jpg",
+      link: "/watch/maou-no-ore-ga-dorei-elf-wo-yome-ni-shitanda-ga-dou-medereba-ii.kwxxw",
+    },
+    {
+      name: "Kaijuu 8-gou",
+      imageUrl: "https://static.aniwave.to/i/0/05/0724db9b8dd8857b0465f1feea1aeaef.jpg",
+      link: "/watch/kaijuu-8-gou.llrk6",
+    }, {
+      name: "Tensei Shitara Slime Datta Ken 3rd Season",
+      imageUrl: "https://static.aniwave.to/i/4/44/16e33c7b7271c6e4cbdb4340fb27186b.jpg",
+      link: "/watch/tensei-shitara-slime-datta-ken-3rd-season.n3kwk",
+    }, {
+      name: "NARUTO: Shippuuden",
+      imageUrl: "https://static.aniwave.to/i/2018/04/ef7eece108cfbe794eb505dc983f7fe4.jpg",
+      link: "/watch/naruto-shippuden.qv3",
+    }, {
+      name: "Dungeon Meshi",
+      imageUrl: "https://static.aniwave.to/i/2/2a/2a3da3cbd982ab7f3394cd2821b2262f.jpg",
+      link: "/watch/dungeon-meshi.6lwo0",
+    }, {
+      name: "Boku no Hero Academia 7",
+      imageUrl: "https://static.aniwave.to/i/4/4e/9f0e7b6babcb6c4427b7a2f0ba814910.jpg",
+      link: "/watch/boku-no-hero-academia-7.qx7kn",
+    }, {
+      name: "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+      imageUrl: "https://static.aniwave.to/i/c/c8/0bf30686f918671c6973c80c6559a0b1.jpg",
+      link: "/watch/mushoku-tensei-jobless-reincarnation-season-2.2o9ql",
+    }, {
+      name: "BLEACH",
+      imageUrl: "https://static.aniwave.to/i/e/e4/e41a915c3f2b1114ec093e7fc3b1442a.jpg",
+      link: "/watch/bleach.6j9",
+    }, {
+      name: "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+      imageUrl: "https://static.aniwave.to/i/c/ca/ca9f44e13ea206b82e6fa77bef22c000.jpg",
+      link: "/watch/tsuki-ga-michibiku-isekai-douchuu-2.xrpw8",
+    }, {
+      name: "Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life",
+      imageUrl: "https://static.aniwave.to/i/8/83/a35ea96d34dcf1d3d92aab6e4b067a28.jpg",
+      link: "/watch/lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life.kwmmw",
+    },
+    {
+      name: "Kono Subarashii Sekai ni Shukufuku wo! 3",
+      imageUrl: "https://static.aniwave.to/i/8/81/1f6d7c2a31c009711d03c5132a2967c8.jpg",
+      link: "/watch/kono-subarashii-sekai-ni-shukufuku-wo-3.prj3j",
+    }, {
+      name: "Jujutsu Kaisen 2nd Season",
+      imageUrl: "https://static.aniwave.to/i/c/c2/c2c8b3ae50a1b5e71d792ce9cff52431.jpg",
+      link: "/watch/jujutsu-kaisen-2nd-season.ll3x3",
+    }, {
+      name: "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu",
+      imageUrl: "https://static.aniwave.to/i/a/a5/b8fd979a3b95e305a49720274ff5387b.jpg",
+      link: "/watch/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-wo-kiwamemasu.52wwq",
+    },
+    {
+      name: "Black Clover",
+      imageUrl: "https://static.aniwave.to/i/2018/05/4c127405d9fa8f78a9d86052721cbefe.jpg",
+      link: "/watch/black-clover.v2k6",
+    }, {
+      name: "Kenka Dokugaku",
+      imageUrl: "https://static.aniwave.to/i/c/ce/8e262d2661b48a1414d269ae8bd1533e.jpg",
+      link: "/watch/kenka-dokugaku.qxqww",
+    }, {
+      name: "Re:Monster",
+      imageUrl: "https://static.aniwave.to/i/c/c7/0c42b5f48558c0d21d4e134d03905492.jpg",
+      link: "/watch/remonster.029q3",
+    }, {
+      name: "NARUTO",
+      imageUrl: "https://static.aniwave.to/i/2018/04/5a2a03c631d274622451643db250cf07.jpg",
+      link: "/watch/naruto.xx8z",
+    }, {
+      name: "Jujutsu Kaisen",
+      imageUrl: "https://static.aniwave.to/i/6/69/69243987e9a44f1090062f56c213fce0.jpg",
+      link: "/watch/jujutsu-kaisen.32n8",
+    }, {
+      name: "Ore dake Level Up na Ken",
+      imageUrl: "https://static.aniwave.to/i/b/b1/359624ee690b1744a5a978cd251f5401.jpg",
+      link: "/watch/solo-leveling.3rpv2",
+    }, {
+      name: "Dead Dead Demon's Dededededestruction",
+      imageUrl: "https://static.aniwave.to/i/5/59/0ad38151cb33b62a0b14c6eec625394f.jpg",
+      link: "/watch/dead-dead-demons-dededededestruction-zenshou.3rvry",
+    }, {
+      name: "HUNTER×HUNTER (2011)",
+      imageUrl: "https://static.aniwave.to/i/2018/04/a027cea51dd4df76c70ebf8ea93a8d75.jpg",
+      link: "/watch/hunter-x-hunter-2011.295",
+    }, {
+      name: "BORUTO: NARUTO NEXT GENERATIONS",
+      imageUrl: "https://static.aniwave.to/i/2018/04/ede641090c1bcfaa10be65f73c805e9c.jpg",
+      link: "/watch/boruto-naruto-next-generations.97vm",
+    }, {
+      name: "Shingeki no Kyojin",
+      imageUrl: "https://static.aniwave.to/i/2018/04/a18b33f4d7af9d4ab1a3b0b7ec49c323.jpg",
+      link: "/watch/attack-on-titan.kww",
+    }, {
+      name: "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+      imageUrl: "https://static.aniwave.to/i/0/0b/0b76d875f8413c3f7cf89da8c0ee67dd.jpg",
+      link: "/watch/demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc.3r7p6",
+    }, {
+      name: "Kimetsu no Yaiba",
+      imageUrl: "https://static.aniwave.to/i/2019/04/961fbb823be55a3f4310c7cc944ec585.jpg",
+      link: "/watch/demon-slayer-kimetsu-no-yaiba.6q67",
+    }, {
+      name: "Hananoi-kun to Koi no Yamai",
+      imageUrl: "https://static.aniwave.to/i/8/82/fe3cff2bc1795260ea47b3fc85eb169c.jpg",
+      link: "/watch/hananoi-kun-to-koi-no-yamai.rl3qn",
+    }, {
+      name: "Ultraman: Rising",
+      imageUrl: "https://static.aniwave.to/i/c/ca/4496cbd7ae717cdf00b42331940ff70d.jpg",
+      link: "/watch/ultraman-rising.xr8oz",
+    }
+  ],
+  hasNextPage: true,
+}
+{
+  status: -1,
+  description: "Where the average scores are the lowest, but the fights are the strongest. Furin High School is renowned as a super school of delinquents. Haruka Sakura, a first-year student, came from outside the city to fight to the top. However, Furin High School has become a group that protects the town called the “Chime of the Wind Breaker” – Bofurin. The heroic legend of high school delinquent Sakura begins here!",
+  author: "Quick AccessFilter       to navigate to navigate    to select to select    to exit to exitWatch2getherRandomRead MangaENJP×TV Japan  Spring 2024  Apr 05, 2024 to Jun 28, 2024 Apr 05, 2024Fridays at 00:26 JSTReleasing Action, Comedy, Drama, School, Shounen 7.88 by 33,069 reviews by 33,069 reviews23 min13 CloverWorks CloverWorks Mainichi Broadcasting System, Kodansha, Aniplex, Tohan Corporation Mainichi Broadcasting SystemKodanshaAniplexTohan Corporation 8.68/10 8.6810 26768 reviews 26768TV? Eps 102kTV? Eps 483kTV13 Eps 126kTV24 Eps 117kTV12 Eps 78kTV12 Eps 133kTV24 Eps 191kTV12 Eps 162kTV25 Eps 137kTV8 Eps 738TV49 Eps 4.5k×?Join now",
+  genre: [
+    "TV", "Japan", "Spring 2024", "Action", "Comedy", "Drama", "School", "Shounen", "CloverWorks",
+    "Mainichi Broadcasting System", "Kodansha", "Aniplex", "Tohan Corporation"
+  ],
+  chapters: [
+    {
+      name: "Episode 11",
+      scanlator: "Sub, Softsub",
+      url: "Hj-XA8wj,Hj-XA8wg&epurl=/watch/wind-breaker.ll1x3/ep-11",
+    }, {
+      name: "Episode 10",
+      scanlator: "Sub, Softsub",
+      url: "Hj-XD80v,Hj-XD8wm&epurl=/watch/wind-breaker.ll1x3/ep-10",
+    }, {
+      name: "Episode 9",
+      scanlator: "Sub, Softsub, Dub",
+      url: "Hj-XCMMu,Hj-XCMMv,Hj-XA8Ml&epurl=/watch/wind-breaker.ll1x3/ep-9",
+    }, {
+      name: "Episode 8",
+      scanlator: "Sub, Softsub, Dub",
+      url: "Hj-YA8Im,Hj-YA8In,Hj-XD8wh&epurl=/watch/wind-breaker.ll1x3/ep-8",
+    }, {
+      name: "Episode 7",
+      scanlator: "Sub, Softsub, Dub",
+      url: "Hj-YDMMn,Hj-YDMMk,Hj-XCMIi&epurl=/watch/wind-breaker.ll1x3/ep-7",
+    }, {
+      name: "Episode 6",
+      scanlator: "Sub, Softsub, Dub",
+      url: "Hj-YCckl,Hj-YCcki,Hj-YA8Iu&epurl=/watch/wind-breaker.ll1x3/ep-6",
+    }, {
+      name: "Episode 5",
+      scanlator: "Sub, Softsub, Dub",
+      url: "Hj-YCswn,Hj-YCswk,Hj-YDMMu&epurl=/watch/wind-breaker.ll1x3/ep-5",
+    }, {
+      name: "Episode 4",
+      scanlator: "Sub, Softsub, Dub",
+      url: "Hj-ZD8Mn,Hj-ZD8Mk,Hj-YCcgk&epurl=/watch/wind-breaker.ll1x3/ep-4",
+    }, {
+      name: "Episode 3",
+      scanlator: "Sub, Softsub, Dub",
+      url: "Hj-aA8su,Hj-aA8sv,Hj-YCsMm&epurl=/watch/wind-breaker.ll1x3/ep-3",
+    }, {
+      name: "Episode 2",
+      scanlator: "Sub, Softsub, Dub",
+      url: "Hj-aDsIu,Hj-aDsIv,Hj-ZD8Mu&epurl=/watch/wind-breaker.ll1x3/ep-2",
+    }, {
+      name: "Episode 1",
+      scanlator: "Sub, Softsub, Dub",
+      url: "Hj-bA8Mg,Hj-bA8Mu,Hj-aA8oh&epurl=/watch/wind-breaker.ll1x3/ep-1",
+    }
+  ],
+}
+[
+  {
+    url: "https://ewal.an36cccd4.site/_v2-oanz/9a701df34ea7e4ae16c25b01dd7fefae2b1974c4164480ab83c578fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a232e9c815801287bf46992689cf4ad30c1af77c606c1db0bda20e6e8bcd255c43459b9b5c2f9e5727599/h/e4/efabceaad;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    originalUrl: "https://ewal.an36cccd4.site/_v2-oanz/9a701df34ea7e4ae16c25b01dd7fefae2b1974c4164480ab83c578fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a232e9c815801287bf46992689cf4ad30c1af77c606c1db0bda20e6e8bcd255c43459b9b5c2f9e5727599/h/e4/efabceaad;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    quality: "VidPlay - sub - p",
+    headers: {
+      Referer: "https://vid1a52.site/",
+    },
+    subtitles: [],
+  }, {
+    url: "https://ewal.an36cccd4.site/_v2-oanz/9a701df34ea7e4ae16c25b01dd7fefae2b1974c4164480ab83c578fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a232e9c815801287bf46992689cf4ad30c1af77c606c1db0bda20e6e8bcd255c43459b9b5c2f9e5727599/h/e3/efabceaad;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    originalUrl: "https://ewal.an36cccd4.site/_v2-oanz/9a701df34ea7e4ae16c25b01dd7fefae2b1974c4164480ab83c578fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a232e9c815801287bf46992689cf4ad30c1af77c606c1db0bda20e6e8bcd255c43459b9b5c2f9e5727599/h/e3/efabceaad;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    quality: "VidPlay - sub - p",
+    headers: {
+      Referer: "https://vid1a52.site/",
+    },
+    subtitles: [],
+  }, {
+    url: "https://ewal.an36cccd4.site/_v2-oanz/9a701df34ea7e4ae16c25b01dd7fefae2b1974c4164480ab83c578fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a232e9c815801287bf46992689cf4ad30c1af77c606c1db0bda20e6e8bcd255c43459b9b5c2f9e5727599/h/e1/efabceaad;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    originalUrl: "https://ewal.an36cccd4.site/_v2-oanz/9a701df34ea7e4ae16c25b01dd7fefae2b1974c4164480ab83c578fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a232e9c815801287bf46992689cf4ad30c1af77c606c1db0bda20e6e8bcd255c43459b9b5c2f9e5727599/h/e1/efabceaad;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    quality: "VidPlay - sub - p",
+    headers: {
+      Referer: "https://vid1a52.site/",
+    },
+    subtitles: [],
+  }, {
+    url: "https://ewal.mcloud.bz/_s2-qmzk/92705df249bef3ec5d8f075f8a6ef3a261403e844a4adea3889f26b45d8f0f7204e0ad58e8b03dc06f63fa2496e8f7bd8b61f7ba5d26579fc62861c0d74351337bf765cf3acdaff86590e826dd06c7d2428d73ace8ed9256dc671ce2ecc6f1a72a3c8ac60ae656fd3568c1bca090c1d0723e16480a8fa098e6b202c6b253/h/hls/1080/1080.m3u8",
+    originalUrl: "https://ewal.mcloud.bz/_s2-qmzk/92705df249bef3ec5d8f075f8a6ef3a261403e844a4adea3889f26b45d8f0f7204e0ad58e8b03dc06f63fa2496e8f7bd8b61f7ba5d26579fc62861c0d74351337bf765cf3acdaff86590e826dd06c7d2428d73ace8ed9256dc671ce2ecc6f1a72a3c8ac60ae656fd3568c1bca090c1d0723e16480a8fa098e6b202c6b253/h/hls/1080/1080.m3u8",
+    quality: "MyCloud - sub - p",
+    headers: {
+      Referer: "https://mcloud.bz/",
+    },
+    subtitles: [],
+  }, {
+    url: "https://ewal.mcloud.bz/_s2-qmzk/92705df249bef3ec5d8f075f8a6ef3a261403e844a4adea3889f26b45d8f0f7204e0ad58e8b03dc06f63fa2496e8f7bd8b61f7ba5d26579fc62861c0d74351337bf765cf3acdaff86590e826dd06c7d2428d73ace8ed9256dc671ce2ecc6f1a72a3c8ac60ae656fd3568c1bca090c1d0723e16480a8fa098e6b202c6b253/h/hls/720/720.m3u8",
+    originalUrl: "https://ewal.mcloud.bz/_s2-qmzk/92705df249bef3ec5d8f075f8a6ef3a261403e844a4adea3889f26b45d8f0f7204e0ad58e8b03dc06f63fa2496e8f7bd8b61f7ba5d26579fc62861c0d74351337bf765cf3acdaff86590e826dd06c7d2428d73ace8ed9256dc671ce2ecc6f1a72a3c8ac60ae656fd3568c1bca090c1d0723e16480a8fa098e6b202c6b253/h/hls/720/720.m3u8",
+    quality: "MyCloud - sub - p",
+    headers: {
+      Referer: "https://mcloud.bz/",
+    },
+    subtitles: [],
+  }, {
+    url: "https://ewal.mcloud.bz/_s2-qmzk/92705df249bef3ec5d8f075f8a6ef3a261403e844a4adea3889f26b45d8f0f7204e0ad58e8b03dc06f63fa2496e8f7bd8b61f7ba5d26579fc62861c0d74351337bf765cf3acdaff86590e826dd06c7d2428d73ace8ed9256dc671ce2ecc6f1a72a3c8ac60ae656fd3568c1bca090c1d0723e16480a8fa098e6b202c6b253/h/hls/360/360.m3u8",
+    originalUrl: "https://ewal.mcloud.bz/_s2-qmzk/92705df249bef3ec5d8f075f8a6ef3a261403e844a4adea3889f26b45d8f0f7204e0ad58e8b03dc06f63fa2496e8f7bd8b61f7ba5d26579fc62861c0d74351337bf765cf3acdaff86590e826dd06c7d2428d73ace8ed9256dc671ce2ecc6f1a72a3c8ac60ae656fd3568c1bca090c1d0723e16480a8fa098e6b202c6b253/h/hls/360/360.m3u8",
+    quality: "MyCloud - sub - p",
+    headers: {
+      Referer: "https://mcloud.bz/",
+    },
+    subtitles: [],
+  }, {
+    url: "https://gamn.an32fd1b3.site/_v2-pvwv/9a701df348a7e4ae16c25b01dd7fefae231925c412408bab918078fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a2369cfd300076f2ea272c63dc0f3ac31c5e822d40a928405da2af8a3fb8d53cf274cada7d8b6f828339acb5ff808b02a6ec0bd/h/eabaeeadb4/fbaadde;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    originalUrl: "https://gamn.an32fd1b3.site/_v2-pvwv/9a701df348a7e4ae16c25b01dd7fefae231925c412408bab918078fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a2369cfd300076f2ea272c63dc0f3ac31c5e822d40a928405da2af8a3fb8d53cf274cada7d8b6f828339acb5ff808b02a6ec0bd/h/eabaeeadb4/fbaadde;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    quality: "VidPlay - softsub - p",
+    headers: {
+      Referer: "https://vid1a52.site/",
+    },
+    subtitles: [
+      [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...]
+    ],
+  }, {
+    url: "https://gamn.an32fd1b3.site/_v2-pvwv/9a701df348a7e4ae16c25b01dd7fefae231925c412408bab918078fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a2369cfd300076f2ea272c63dc0f3ac31c5e822d40a928405da2af8a3fb8d53cf274cada7d8b6f828339acb5ff808b02a6ec0bd/h/eabaeeadb3/fbaadde;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    originalUrl: "https://gamn.an32fd1b3.site/_v2-pvwv/9a701df348a7e4ae16c25b01dd7fefae231925c412408bab918078fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a2369cfd300076f2ea272c63dc0f3ac31c5e822d40a928405da2af8a3fb8d53cf274cada7d8b6f828339acb5ff808b02a6ec0bd/h/eabaeeadb3/fbaadde;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    quality: "VidPlay - softsub - p",
+    headers: {
+      Referer: "https://vid1a52.site/",
+    },
+    subtitles: [
+      [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...]
+    ],
+  }, {
+    url: "https://gamn.an32fd1b3.site/_v2-pvwv/9a701df348a7e4ae16c25b01dd7fefae231925c412408bab918078fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a2369cfd300076f2ea272c63dc0f3ac31c5e822d40a928405da2af8a3fb8d53cf274cada7d8b6f828339acb5ff808b02a6ec0bd/h/eabaeeadb1/fbaadde;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    originalUrl: "https://gamn.an32fd1b3.site/_v2-pvwv/9a701df348a7e4ae16c25b01dd7fefae231925c412408bab918078fe4fcd06741ae3e719f0ef63837c6cf62e8daaecb2817ee6ae0d2652909a2369cfd300076f2ea272c63dc0f3ac31c5e822d40a928405da2af8a3fb8d53cf274cada7d8b6f828339acb5ff808b02a6ec0bd/h/eabaeeadb1/fbaadde;9d705ee448b4e4e553dc06568f6feda3345b239e1c12c6.m3u8",
+    quality: "VidPlay - softsub - p",
+    headers: {
+      Referer: "https://vid1a52.site/",
+    },
+    subtitles: [
+      [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...]
+    ],
+  }, {
+    url: "https://gamn.mcloud.bz/_s2-pvwv/92705df24bbbf3ec5d9f055c9668aee53c597e8e021dcce2d5c571fb1d86462c5af7ea13a7b13ac82c77f42088bbe9b7d420b6f5583045979a773b9994535f3e64f07ac720cdb0f66890e822d10a828f00c723ffaab2c902d4660fe7a180a0e0356c9fc301ef5fb03b7d/h/hls/1080/1080.m3u8",
+    originalUrl: "https://gamn.mcloud.bz/_s2-pvwv/92705df24bbbf3ec5d9f055c9668aee53c597e8e021dcce2d5c571fb1d86462c5af7ea13a7b13ac82c77f42088bbe9b7d420b6f5583045979a773b9994535f3e64f07ac720cdb0f66890e822d10a828f00c723ffaab2c902d4660fe7a180a0e0356c9fc301ef5fb03b7d/h/hls/1080/1080.m3u8",
+    quality: "MyCloud - softsub - p",
+    headers: {
+      Referer: "https://mcloud.bz/",
+    },
+    subtitles: [
+      [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...]
+    ],
+  }, {
+    url: "https://gamn.mcloud.bz/_s2-pvwv/92705df24bbbf3ec5d9f055c9668aee53c597e8e021dcce2d5c571fb1d86462c5af7ea13a7b13ac82c77f42088bbe9b7d420b6f5583045979a773b9994535f3e64f07ac720cdb0f66890e822d10a828f00c723ffaab2c902d4660fe7a180a0e0356c9fc301ef5fb03b7d/h/hls/720/720.m3u8",
+    originalUrl: "https://gamn.mcloud.bz/_s2-pvwv/92705df24bbbf3ec5d9f055c9668aee53c597e8e021dcce2d5c571fb1d86462c5af7ea13a7b13ac82c77f42088bbe9b7d420b6f5583045979a773b9994535f3e64f07ac720cdb0f66890e822d10a828f00c723ffaab2c902d4660fe7a180a0e0356c9fc301ef5fb03b7d/h/hls/720/720.m3u8",
+    quality: "MyCloud - softsub - p",
+    headers: {
+      Referer: "https://mcloud.bz/",
+    },
+    subtitles: [
+      [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...]
+    ],
+  }, {
+    url: "https://gamn.mcloud.bz/_s2-pvwv/92705df24bbbf3ec5d9f055c9668aee53c597e8e021dcce2d5c571fb1d86462c5af7ea13a7b13ac82c77f42088bbe9b7d420b6f5583045979a773b9994535f3e64f07ac720cdb0f66890e822d10a828f00c723ffaab2c902d4660fe7a180a0e0356c9fc301ef5fb03b7d/h/hls/360/360.m3u8",
+    originalUrl: "https://gamn.mcloud.bz/_s2-pvwv/92705df24bbbf3ec5d9f055c9668aee53c597e8e021dcce2d5c571fb1d86462c5af7ea13a7b13ac82c77f42088bbe9b7d420b6f5583045979a773b9994535f3e64f07ac720cdb0f66890e822d10a828f00c723ffaab2c902d4660fe7a180a0e0356c9fc301ef5fb03b7d/h/hls/360/360.m3u8",
+    quality: "MyCloud - softsub - p",
+    headers: {
+      Referer: "https://mcloud.bz/",
+    },
+    subtitles: [
+      [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...], [Object ...]
+    ],
+  }
+]

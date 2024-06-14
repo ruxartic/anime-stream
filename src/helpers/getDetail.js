@@ -39,7 +39,6 @@ export async function getDetail(url) {
   const vrf = `vrf=${encodeURIComponent(encrypt)}`;
 
 
-  console.log(`${Client.source.baseUrl}/ajax/episode/list/${id}?${vrf}`)
 
 
   const resEp = await Client.get(`${Client.source.baseUrl}/ajax/episode/list/${id}?${vrf}`);

@@ -40,7 +40,6 @@ async function callFromFuToken(host, data, url) {
     );
     js += `}("${data}"))`;
 
-    console.log(js); // Log the constructed JavaScript function for debugging
 
     const jsRes = await eval(js);
     if (jsRes === "error") return "";

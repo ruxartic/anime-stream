@@ -10,7 +10,6 @@ export async function getVideoList(url) {
     const encrypt = vrfEncrypt(ids);
     const vrf = `vrf=${encodeURIComponent(encrypt)}`;
     const res = await Client.get(`${Client.source.baseUrl}/ajax/server/list/${ids}?${vrf}`);
-    console.log(`${Client.source.baseUrl}/ajax/server/list/${ids}?${vrf}`)
     const html = res.result;
   
     const $ = cheerio.load(html);
@@ -31,22 +30,17 @@ export async function getVideoList(url) {
         const res = await Client.get(`${Client.source.baseUrl}/ajax/server/${serverId}?${vrf}`);
         const status = res.status;
 
-        // console.log(res)
-        // console.log(serverName);
+
   
         if (status === 200) {
           const url = vrfDecrypt(res.result.url);
 
-          console.log(url);
           const hosterSelection = preferenceHosterSelection();
           const typeSelection = preferenceTypeSelection();
-
-          console.log(type)
 
           if (typeSelection.includes(type.toLowerCase())) {
             let a = [];
             if (serverName.includes("vidplay") || url.includes("mcloud")) {
-              console.log("americaya!")
               const hosterName = serverName.includes("vidplay") ? "VidPlay" : "MyCloud";
               if (hosterSelection.includes(hosterName.toLowerCase())) {
                 a = await vidsrcExtractor(url, hosterName, type);

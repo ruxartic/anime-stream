@@ -1,22 +1,17 @@
-<<<<<<< HEAD
-# anime-fetch
-another anime scrapper
-=======
 # aniwave
 
 To install dependencies:
 
 ```bash
-bun install
+npm install
 ```
 
 To run:
 
 ```bash
-bun run index.js
+npm run index.js
 ```
 
+check the index.js file to learn more, modify the file for even more customization
+
 This project was created using `bun init` in bun v1.0.35. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
-# anime-fetch
-# anime-fetch
->>>>>>> d191136 (m)
